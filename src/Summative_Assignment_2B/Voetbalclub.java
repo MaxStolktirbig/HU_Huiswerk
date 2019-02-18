@@ -28,9 +28,11 @@ public class Voetbalclub {
     }
 
     private int aantalGespeeld(){
-       return  aantalGelijk+aantalGewonnen+aantalVerloren;
+
+        return  aantalGelijk+aantalGewonnen+aantalVerloren;
     }
     private int aantalPunten(){
+
         return (aantalGewonnen*3)+aantalGelijk;
     }
 
