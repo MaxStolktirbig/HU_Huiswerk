@@ -28,6 +28,7 @@ public class Game {
     }
 
     public boolean equals(Object o) {
+
         return o == this;
     }
     public String toString(){
