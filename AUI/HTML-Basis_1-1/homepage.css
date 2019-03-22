@@ -1,0 +1,31 @@
+header {
+    background: yellow;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    color: black;
+    padding: 1px 1px 0px 1px;
+}
+nav ul li p {
+    display: inline-block;
+    background: blue;
+    color: white;
+    padding: 10px;
+    margin: 20px 5% 0px 5%;
+}
+nav ul li a {
+    display: inline-block;
+    background: white;
+    color: black;
+    padding: 10px;
+    margin: 20px 5% 0px 5%;
+}
+.navulpicture{
+    display: inline-block;
+    margin: 0px 60% 0px 0%;
+}
+.undernav {
+    display: inline-block;
+    background: blue;
+}

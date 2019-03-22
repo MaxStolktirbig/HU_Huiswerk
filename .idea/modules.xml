@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HU_Huiswerk.iml" filepath="$PROJECT_DIR$/HU_Huiswerk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFXOpdrachten/JavaFXOpdrachten.iml" filepath="$PROJECT_DIR$/JavaFXOpdrachten/JavaFXOpdrachten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaOpdrachten/JavaOpdrachten.iml" filepath="$PROJECT_DIR$/JavaOpdrachten/JavaOpdrachten.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
